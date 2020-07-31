@@ -54,7 +54,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-![alt text](https://github.com/tarang16/ds_salary_proj/blob/master/salary_by_job_title.png")
+![alt text]("https://github.com/tarang16/ds_salary_proj/blob/master/salary_by_job_title.png")
 ![alt text](https://github.com/tarang16/ds_salary_proj/blob/master/positions_by_state.png")
 ![alt text](https://github.com/tarang16/ds_salary_proj/blob/master/correlation_visual.png")
 
