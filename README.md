@@ -71,7 +71,7 @@ I tried three different models:
 
 ## Model performance
 The Random Forest model far outperformed the other approaches on the test and validation sets. 
-*	**Random Forest** : MAE = 11.22
+*	**Random Forest tuning with RandomSearchCV** : MAE = 12
 *	**Linear Regression**: MAE = 18.86
 *	**Ridge Regression**: MAE = 19.67
 
